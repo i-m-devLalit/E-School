@@ -1,4 +1,4 @@
-
+# Azure link - https://lively-stone-03a654a10.3.azurestaticapps.net
 # E-School Website
 
 **Clean Website for an E-School 🚀**
